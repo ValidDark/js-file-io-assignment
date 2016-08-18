@@ -2,6 +2,8 @@
 
 const fs = require('fs')
 
+
+
 class Employee {
     constructor(newObj) {
       this.name = newObj.name
